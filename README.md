@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Data Science Projects
 
-You can use the [editor on GitHub](https://github.com/adriancervero/adriancervero.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### [Flights Prices Prediction](https://github.com/adriancervero/flight-prices-prediction)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Flight price predictor that is able to indicate if a given flight price will drop in the future and how many days the traveler should wait to get the best price.
 
-### Markdown
+### [Twitter Summary Visualization](https://github.com/adriancervero/twitter-summary-visualization)
+Visual summary of a collection of tweets scraped using the Twitter API.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Fake News Detector](https://github.com/adriancervero/fake-news-detector)
+Spanish written fake news detector.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adriancervero/adriancervero.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
