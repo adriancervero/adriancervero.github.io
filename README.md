@@ -1,5 +1,5 @@
 # Data Science Projects
-
+ 
 ### [Flights Prices Prediction](https://github.com/adriancervero/flight-prices-prediction)
 
 Flight price predictor that is able to indicate if a given flight price will drop in the future and how many days the traveler should wait to get the best price.
